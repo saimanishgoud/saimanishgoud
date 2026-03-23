@@ -50,13 +50,7 @@ Hi 👋, I'm Sai Manish Goud
 * LLM-based Applications
 * ML Deployment (AWS)
 
----
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=saimanishgoud&show_icons=true)
-![Streak](https://streak-stats.demolab.com/?user=saimanishgoud)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanishgoud&layout=compact)
 ---
 
 ## 📫 Connect With Me
