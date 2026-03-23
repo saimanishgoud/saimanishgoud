@@ -1,16 +1,72 @@
-## Hi there 👋
+Hi 👋, I'm Sai Manish Goud
+🚀 Aspiring Machine Learning Engineer | Building Real-World AI Systems</h3>
 
-<!--
-**saimanishgoud/saimanishgoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Computer Science Student (AI & ML Focus)
+* 🤖 Building real-world projects in ML, NLP & Computer Vision
+* 🎯 Target: ML Engineer  in  Top Startups
+* 💡 Interested in AI Startups & Product Building
+* 🧠 Currently Learning: LLMs, RAG, System Design, AWS
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, C++, SQL
+* **ML/AI:** PyTorch, Scikit-learn, CNN, NLP, RAG
+* **Tools:** Git, VS Code, Jupyter Notebook
+* **Core:** Data Structures & Algorithms, Statistics
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Brain Tumor Classification
+
+* CNN model to classify MRI scans into 4 categories
+* Tech: PyTorch, CNN
+
+### 🤖 Q&A LLM-based Chatbot
+
+* Built an intelligent chatbot using LLMs for question answering
+* Uses RAG (Retrieval-Augmented Generation) for accurate responses
+* Tech: Python, LangChain, LLM APIs
+
+### 📈 Mutual Fund Returns Prediction
+
+* Predicts future returns of mutual funds using ML models
+* Includes data preprocessing, feature engineering, and model evaluation
+* Tech: Python, Scikit-learn, Pandas
+  
+---
+
+
+## 📈 Currently Working On
+
+* Agentic RAG Systems
+* LLM-based Applications
+* ML Deployment (AWS)
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=saimanishgoud&show_icons=true)
+![Streak](https://streak-stats.demolab.com/?user=saimanishgoud)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saimanishgoud&layout=compact)
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/sai-manish-goud2004
+* Email: saimanishgoud68@gmail.com
+
+---
+
+⭐ *"Building intelligent systems that solve real-world problems."*
+
+
+
