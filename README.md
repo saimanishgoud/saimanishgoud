@@ -1,5 +1,5 @@
 Hi 👋, I'm Sai Manish Goud
-🚀 Aspiring Machine Learning Engineer | Building Real-World AI Systems</h3>
+🚀 Aspiring Machine Learning Engineer | Building Real-World AI Systems
 
 ---
 
